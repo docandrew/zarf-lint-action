@@ -1,0 +1,1 @@
+# zarf-lint-action
